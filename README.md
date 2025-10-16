@@ -15,9 +15,9 @@
 ## 📱 App Screenshots
 
 <div align="center">
-  <img src="2025-10-17 00.20.00.jpg" alt="Main Control Interface" width="250" style="margin: 10px;"/>
-  <img src="2025-10-17 00.20.05.jpg" alt="Robot Control Panel" width="250" style="margin: 10px;"/>
-  <img src="2025-10-17 00.20.09.jpg" alt="Settings & Configuration" width="250" style="margin: 10px;"/>
+  <img src="assets/images/app_main_screen.jpg" alt="Main Control Interface" width="250" style="margin: 10px;"/>
+  <img src="assets/images/robot_control_panel.jpg" alt="Robot Control Panel" width="250" style="margin: 10px;"/>
+  <img src="assets/images/settings_screen.jpg" alt="Settings & Configuration" width="250" style="margin: 10px;"/>
 </div>
 
 <p align="center">
